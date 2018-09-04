@@ -1,0 +1,12 @@
+.episode-list {
+    list-style-type: none;
+    text-align: center;
+    text-align: left;
+    margin: 10px;    
+}
+
+.episode-list-container {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}

@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.nav-links ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.nav-links li {
+  float: left;
+  list-style-type: none;
+}
+
+.nav-links li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  background-color: #333333;
+}
+
+.App-footer {
+  background-color: rgb(77, 77, 77);
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
